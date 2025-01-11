@@ -32,12 +32,12 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Tomas Beuzen. It is licensed under the terms
+`pycounts_tnn` was created by Tien Nguyen. It is licensed under the terms
 of the MIT license.
 
 ## Credits
 
-`pycounts` was created with 
+`pycounts_tnn` was created with 
 [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and 
 the `py-pkgs-cookiecutter` 
 [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
