@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_tnn"
 copyright = u"2025, Tien Nguyen"
 author = u"Tien Nguyen"
 

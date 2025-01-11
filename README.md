@@ -1,21 +1,21 @@
-# pycounts
+# pycounts_tnn
 
 Calculate word counts in a text file!
 
 ## Installation
 
 ```bash
-pip install pycounts
+pip install pycounts_tnn
 ```
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycounts_tnn` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_tnn.pycounts import count_words
+from pycounts_tnn.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
